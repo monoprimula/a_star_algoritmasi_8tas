@@ -1,0 +1,10 @@
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\esrakucuk_8tas\esrakucuk_8tas\obj\Debug\esrakucuk_8tas.csproj.AssemblyReference.cache
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\esrakucuk_8tas\esrakucuk_8tas\obj\Debug\AStarAlgoritmasi8TasBulmacasi.AStar8Bulmaca.resources
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\esrakucuk_8tas\esrakucuk_8tas\obj\Debug\esrakucuk_8tas.Properties.Resources.resources
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\esrakucuk_8tas\esrakucuk_8tas\obj\Debug\esrakucuk_8tas.csproj.GenerateResource.cache
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\esrakucuk_8tas\esrakucuk_8tas\obj\Debug\esrakucuk_8tas.csproj.CoreCompileInputs.cache
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\esrakucuk_8tas\esrakucuk_8tas\bin\Debug\esrakucuk_8tas.exe.config
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\esrakucuk_8tas\esrakucuk_8tas\bin\Debug\esrakucuk_8tas.exe
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\esrakucuk_8tas\esrakucuk_8tas\bin\Debug\esrakucuk_8tas.pdb
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\esrakucuk_8tas\esrakucuk_8tas\obj\Debug\esrakucuk_8tas.exe
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\esrakucuk_8tas\esrakucuk_8tas\obj\Debug\esrakucuk_8tas.pdb
